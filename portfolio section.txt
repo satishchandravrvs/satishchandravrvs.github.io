@@ -1,0 +1,121 @@
+<section class="portfolio" id="portfolio">
+		<div class="center-text">
+			<h2> My <span> Portfolio</span></h2>
+		</div>
+		<div class="Portfolio-content">
+			<div class="row">
+				<img src="img/port-1.jpg">
+				<div class="main-row">
+					<h5> Website design</h5>
+			</div>
+			<div class="row-icon">
+				<i class="ri-github-fill"></i>
+			</div>
+			</div>
+			<h4> Website development for Dark X </h4>
+		</div>
+
+				<div class="center-text" data-aos="fade-down">
+			<h2> My <span> Portfolio</span></h2>
+		</div>
+		<div class="Portfolio-content" data-aos="zoom-in-up">
+			<div class="row">
+				<img src="img/port-2.jpg">
+				<div class="main-row">
+					<h5> Website design</h5>
+			</div>
+			<div class="row-icon">
+				<i class="ri-github-fill"></i>
+			</div>
+			</div>
+			<h4> Website development for Dark X </h4>
+		</div>
+
+				<div class="center-text">
+			<h2> My <span> Portfolio</span></h2>
+		</div>
+		<div class="Portfolio-content">
+			<div class="row">
+				<img src="img/port-3.jpg">
+				<div class="main-row">
+					<h5> Website design</h5>
+			</div>
+			<div class="row-icon">
+				<i class="ri-github-fill"></i>
+			</div>
+			</div>
+			<h4> Website development for Dark X </h4>
+		</div>
+
+				<div class="center-text">
+			<h2> My <span> Portfolio</span></h2>
+		</div>
+		<div class="Portfolio-content">
+			<div class="row">
+				<img src="img/port-4.jpg">
+				<div class="main-row">
+					<h5> Website design</h5>
+			</div>
+			<div class="row-icon">
+				<i class="ri-github-fill"></i>
+			</div>
+			</div>
+			<h4> Website development for Dark X </h4>
+		</div>
+
+				<div class="center-text">
+			<h2> My <span> Portfolio</span></h2>
+		</div>
+		<div class="Portfolio-content">
+			<div class="row">
+				<img src="img/port-5.jpg">
+				<div class="main-row">
+					<h5> Website design</h5>
+			</div>
+			<div class="row-icon">
+				<i class="ri-github-fill"></i>
+			</div>
+			</div>
+			<h4> Website development for Dark X </h4>
+		</div>
+
+				<div class="center-text">
+			<h2> My <span> Portfolio</span></h2>
+		</div>
+		<div class="Portfolio-content">
+			<div class="row">
+				<img src="img/port-6.jpg">
+				<div class="main-row">
+					<h5> Website design</h5>
+			</div>
+			<div class="row-icon">
+				<i class="ri-github-fill"></i>
+			</div>
+			</div>
+			<h4> Website development for Dark X </h4>
+		</div>
+		</div>
+	</section>
+	<section class="contact" id="contact">
+		<div class="center-text" data-aos="fade-down">
+			<h2> Contact <span>Me </span> </h2>
+		</div>
+		<div class="contact-form" data-aos="zoom-in">
+			<form action="">
+				<input type="text" placeholder="Your Name" required>
+				<input type="email" placeholder="Email Address.." required>
+				<textarea name="" id="" cols="30" rows="10" placeholder="Wrire Message here.." required></textarea>
+				<input type="submit" name="" value="Send Message" class="send-btn">
+			</form>
+		</div>
+	</section>
+
+
+
+
+
+<a href="CV/CV-Satish-Chandra-V-R-V-S-Resume.pdf" target=_blank class="btn btn2">Download CV</a>
+
+<div class="main-content">
+					<a href="CV/CV-Satish-Chandra-V-R-V-S-Resume.pdf" target=_blank class="btn btn2">Download CV</a>
+				</div>
