@@ -414,6 +414,77 @@ form .send-btn:hover{
 	cursor: pointer;
 }
 
+
+.certifications-content{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+	align-items: center;
+	gap: 3rem;
+	margin-top: 5rem;
+}
+.row img{
+	height: 50%;
+	width: 50%;
+	border-radius: 18px;
+	margin-bottom: 0.7rem;
+}
+.row{
+	background: #E6E6FA;
+	border-radius: 28px;
+	border: 1px solid transparent;
+	box-shadow: 0 0 5px var(--main-color);
+	padding: 20px;
+	transition: all .50s ease;
+}
+.main-row{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 0.5rem;
+}
+.row h5{
+	font-size: 20px;
+	font-weight: 600;
+	color: var(--other-color);
+}
+.row i{
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 35px;
+	height: 35px;
+	font-size: 17px;
+	border-radius: 50%;
+	color: var(--text-color);
+	background: #E6E6FA;
+}
+.row h4{
+	font-size: 25px;
+	font-weight: 700;
+	margin-bottom: 20px;
+	line-height: 1.4;
+}
+.row:hover{
+	border: 3px solid var(--main-color);
+	transform: translateY(-10px) scale(1.03);
+	cursor: pointer;
+}
+
+.row a.external-link {
+    display: block; /* Make the anchor a block-level element */
+    padding: 10px 20px; /* Adjust padding as needed for proper sizing */
+    border-radius: 10px; /* Add rounded corners */
+    background-color: var(--main-color); /* Style the background color */
+    color: white; /* Style the text color */
+    text-decoration: none; /* Remove underlines */
+    font-weight: bold; /* Make the text bold */
+    transition: background-color 0.3s ease; /* Add a transition for hover effect */
+}
+
+.row a.external-link:hover {
+    background-color: var(--second-bg-color); /* Change the background color on hover */
+}
+
 .about{
 	background: var(--second-bg-color);
 	display: grid;
